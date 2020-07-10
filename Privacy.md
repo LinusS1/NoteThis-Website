@@ -1,5 +1,7 @@
 ## Privacy
-At NoteThis we take privacy very seriously. Actually, we don't want your data.
+We take privacy very seriously. Actually, we don't want your data.
+
+There are no anayltics in our apps, and nothing is ever sent to us -- It's how apps _should_ be built: no creepy tracking whatsoever.
 For this reason, no data is ever sent to our servers. All data is stored with Apple, either on you device, or in iCloud, if you choose to enable syncing.
 
 ### Beta
